@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...bubble butts and sticky weed, also japanese big tits
 - 🌱 I’m currently learning ... bash script
 - 💞️ I’m looking to collaborate on ... bash stuff for servers
-- 📫 Found me around ... @zerohack16 on twitter
+- 📫 Find me around ... @zerohack16 on twitter
 
 <!---
 zerohack16/zerohack16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
