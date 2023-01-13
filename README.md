@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zerohack16
-- 👀 I’m interested in ...bubble butts and sticky weed and japanese big tits
+- 👀 I’m interested in ...bubble butts and sticky weed.
 - 🌱 I’m currently learning ... bash script
 - 💞️ I’m looking to collaborate on ... bash stuff for servers
 - 📫 Find me around ... @zerohack16 on twitter
