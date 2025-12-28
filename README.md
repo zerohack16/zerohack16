@@ -1,5 +1,5 @@
 Name/名前 = "Juan / ゼロ"
-@zerohack16
+Find me everywehere as @zerohack16
 
 [self]
 Age/年齢 = 40
@@ -11,7 +11,7 @@ Style/流儀 = "Cynical / シニカル"
 [skills]
 Web/ウェブ = "HTML"
 Script/スクリプト = "Bash Shell"
-Class/クラス = "Linuxero 🐧"      # Tu identidad técnica principal
+Class/クラス = "Linux 🐧" 
 
 [goals]
 Learning/学習 = "Python 🐍"
