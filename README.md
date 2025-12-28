@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @zerohack16
-- 👀 I’m interested in ...Japanese ladies with big tits, also bubble butts and sticky weed.
-- 🌱 I’m currently learning ... bash script
-- 💞️ I’m looking to collaborate on ... bash stuff for servers
-- 📫 Find me around ... @zerohack16 on twitter
+Name/名前 = "Juan / ゼロ"
+@zerohack16
 
-<!---
-zerohack16/zerohack16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[self]
+Age/年齢 = 40
+Locale/地域 = "es-MX 🇲🇽"
+Music/音楽 = "Metal & Hard Rock 🤘"
+Style/流儀 = "Cynical / シニカル"
+- 👀 I’m interested in ...Japanese ladies with big tits, also bubble butts and sticky weed.
+  
+[skills]
+Web/ウェブ = "HTML"
+Script/スクリプト = "Bash Shell"
+Class/クラス = "Linuxero 🐧"      # Tu identidad técnica principal
+
+[goals]
+Learning/学習 = "Python 🐍"
+Role/役割 = "Support Coordinator"
+
+[os]
+System/システム = "macOS"
+Device/機材 = "MacBook Pro"
